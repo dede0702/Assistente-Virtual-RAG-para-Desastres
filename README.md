@@ -2,7 +2,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://assistente-virtual-rag-para-desastres.streamlit.app/)
 
-**Global Solution - Engenharia de Software | Turma 1ESPF - 2024**
+**Global Solution - Inteligência Artificial | Turma 2TIAPY - 2025**
 
 ## Integrantes
 
